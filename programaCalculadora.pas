@@ -14,4 +14,4 @@ Begin
      writeln('A multiplicação dos números é:', multiplicacao);
      writeln('A divisão dos números é:', divisao:6:2);
      readln;
-End.
+End.                                                    {lkjlkjlkjl}
