@@ -12,5 +12,6 @@ Begin
      writeln('A soma dos números é:', soma);
      writeln('A subtração  dos números é:', subtracao);
      writeln('A multiplicação dos números é:', multiplicacao);
-     writeln('A divisão dos números é:', divisao);
+     writeln('A divisão dos números é:', divisao:6:2);
+     readln;
 End.
